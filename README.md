@@ -17,7 +17,7 @@ You can find Yuktsi's original case files [here](https://geekhack.org/index.php?
 - Reworked stabs footprint
 - Fixed layout both for half-plate and full-plate.
 
-# Disclosure
+# Disclaimer
 
 **THIS IS A WORK IN PROGRESS PROJECT. USE THE FILES AT YOUR OWN RISK**
 
