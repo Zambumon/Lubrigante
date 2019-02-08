@@ -24,8 +24,8 @@ You can find Yuktsi's original case files [here](https://geekhack.org/index.php?
 ## Available layouts:
 
 - **MAN OF LAYOUTS**: fixed layout. Stepped caps lock, 2.00U space bar next to a 1.25U modifier, standard backspace.
- - **Half plate**
- - **Full plate**
+  - **Half plate**
+  - **Full plate**
 
 
 ---
@@ -38,7 +38,7 @@ The case is composed by 4 pieces that will get held together by 8 M3 screws. The
 
 The original design had 10 countersunk M3 holes: 8 on the top piece, and two on the base piece. Additionally, the base piece had 8 of its screw holes tapped.
 
-![TGR's guidelines](./misc/img/alice_case_acrylic_guidelines.png)
+![TGR's guidelines](./misc/alice_case_acrylic_guidelines.png)
 _Screenshot of TGR's guidelines for the acrylic case_
 
 While it is possible to make the case by just using four 5mm thick pieces of acrylic, it is not recommended, as the switches would still be visible when finishing assembly.
@@ -49,8 +49,8 @@ While it is possible to make the case by just using four 5mm thick pieces of acr
 There are a handful of ways of getting the acrylic pieces done:
 - Contacting a local maker spaces or a laser cutting shop
 - Ordering online:
- - [Ponoko](https://www.ponoko.com) (NA)
- - [Sculpteo](https://www.sculpteo.com/) (EU)
+  - [Ponoko](https://www.ponoko.com) (NA)
+  - [Sculpteo](https://www.sculpteo.com/) (EU)
 - Joining a group buy
 
 
@@ -60,8 +60,8 @@ There are a handful of ways of getting the acrylic pieces done:
 - [CNCd aluminum cone feet](http://lmgtfy.com/?q=cnc+aluminum+cone+feet)
 - Bumpons: I recommend using some `SJ5302 3M`, as these are very similar to the ones used by the CNCd cone feet.
 - Screws:
- - 8x M3 x 20mm screws. Preferrably flat head screws if you get the 8mm piece countersunk. The original acrylic TGR Alice used plastic of nylon screws.
- - 2x M3 x 10mm (or less) screws. Usually, these two come with the cone feet.
+  - 8x M3 x 20mm screws. Preferrably flat head screws if you get the 8mm piece countersunk. The original acrylic TGR Alice used plastic of nylon screws.
+  - 2x M3 x 10mm (or less) screws. Usually, these two come with the cone feet.
 
 ---
 
