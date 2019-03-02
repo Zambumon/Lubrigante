@@ -50,9 +50,7 @@ There are a handful of ways of getting the acrylic pieces done:
 - Contacting a local maker spaces or a laser cutting shop
 - Ordering online:
   - [Ponoko](https://www.ponoko.com) (NA)
-  - [Sculpteo](https://www.sculpteo.com/) (EU)
-- Joining a group buy
-
+  - [Formulor](https://www.formulor.de) (EU)
 
 ### Other components
 
