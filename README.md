@@ -2,6 +2,8 @@
 
 _A TGR Alice Acrylic Case Revision By Zambumon_
 
+### CHECK THE ISSUES TAB BEFORE MAKING THIS CASE
+
 ![Lubrigante](./misc/overview_half_plate.png)
 
 The aim of this project is to revisit the TGR Alice acrylic case (designed by Yuktsi), and host a guide with some basic resources so you can make your own.
