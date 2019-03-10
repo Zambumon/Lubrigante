@@ -33,7 +33,7 @@ You can find Yuktsi's original case files [here](https://geekhack.org/index.php?
 
 ## Making the case
 
-When importing the files, make sure to **set the scale to millimetres**. **The keyboard should be 348.8mm wide.**
+Wherever you use the files, make sure to **set the scale to millimetres**. **The keyboard should be 348.8mm wide.**
 
 The case is made with multiple layers of acrylic that are stacked on top of each other and held together with 8 M3 screws. Each file has 5 distinct pieces:
 - **Piece A - Top opening**: this is the top piece of the of the case, the one with two openings. This piece is placed on top of the plate.
@@ -68,7 +68,7 @@ There are a handful of ways of getting the acrylic pieces done:
 - [CNCd aluminum cone feet](http://lmgtfy.com/?q=cnc+aluminum+cone+feet). These will most likely come with M4 screws.
 - Bumpons: I recommend using some `SJ5302 3M`, as these are very similar to the ones used by the CNCd cone feet.
 - Screws:
-  - 8x M3 x 20mm (or more) screws. The original acrylic TGR Alice used flat head nylon screws. I've used some hex socket screws. Ideally you'd want to use 20+ screws and some nuts.
+  - 8x M3 20mm screws. The original acrylic TGR Alice used flat head nylon screws. I've used some hex socket screws. If you plan to use some nuts to hold the screws, you might need to use longer screws.
 
 ![Lubrigante](./misc/overview_half_plate_3.jpg)
 
