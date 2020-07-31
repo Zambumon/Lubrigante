@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="PlateC.svg"
+   id="svg6164"
+   version="1.1"
+   height="1122.5196850393702"
+   width="793.7007874015749"
+   viewBox="0 0 793.7007874015749 1122.5196850393702">
+  <metadata
+     id="metadata6168">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="g6156"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="717.89048"
+     inkscape:cx="396.8504"
+     inkscape:zoom="0.76613358"
+     showgrid="false"
+     id="namedview6166"
+     inkscape:window-height="1027"
+     inkscape:window-width="2560"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs6136">
+    <marker
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DistanceX">
+      <path
+         id="path6124"
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch">
+      <path
+         id="path6127"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path6129"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path6131"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+  </defs>
+  <g
+     id="g6156"
+     inkscape:label="Holes"
+     inkscape:groupmode="layer">
+    <path
+       id="path6140"
+       style="fill:none;stroke:#FF0000"
+       d="M 62.845214,626.477250 A 6.150176,6.150176 -0.000000 1 0 50.544862,626.477250 6.150176,6.150176 -0.000000 1 0 62.845214,626.477250 z" />
+    <path
+       id="path6142"
+       style="fill:none;stroke:#FF0000"
+       d="M 493.694477,626.465708 A 6.141752,6.141752 -0.000000 1 0 481.410973,626.465708 6.141752,6.141752 -0.000000 1 0 493.694477,626.465708 z" />
+    <path
+       id="path6144"
+       style="fill:none;stroke:#FF0000"
+       d="M 912.479321,626.459094 A 6.154945,6.154945 -0.000000 1 0 900.169431,626.459094 6.154945,6.154945 -0.000000 1 0 912.479321,626.459094 z" />
+    <path
+       id="path6146"
+       style="fill:none;stroke:#FF0000"
+       d="M 1343.332276,626.465709 A 6.141750,6.141750 -0.000000 1 0 1331.048776,626.465709 6.141750,6.141750 -0.000000 1 0 1343.332276,626.465709 z" />
+    <path
+       id="path6148"
+       style="fill:none;stroke:#FF0000"
+       d="M 1343.332276,1080.953894 A 6.141750,6.141750 -0.000000 1 0 1331.048775,1080.953894 6.141750,6.141750 -0.000000 1 0 1343.332276,1080.953894 z" />
+    <path
+       id="path6150"
+       style="fill:none;stroke:#FF0000"
+       d="M 912.479321,1080.960509 A 6.154945,6.154945 -0.000000 1 0 900.169430,1080.960509 6.154945,6.154945 -0.000000 1 0 912.479321,1080.960509 z" />
+    <path
+       id="path6152"
+       style="fill:none;stroke:#FF0000"
+       d="M 493.694478,1080.953896 A 6.141752,6.141752 -0.000000 1 0 481.410973,1080.953896 6.141752,6.141752 -0.000000 1 0 493.694478,1080.953896 z" />
+    <path
+       id="path6154"
+       style="fill:none;stroke:#FF0000"
+       d="M 62.841623,1080.960561 A 6.155048,6.155048 -0.000000 1 0 50.531527,1080.960561 6.155048,6.155048 -0.000000 1 0 62.841623,1080.960561 z" />
+  </g>
+  <g
+     id="g6160"
+     inkscape:label="Part"
+     inkscape:groupmode="layer">
+    <path
+       id="path6158"
+       style="fill:none;stroke:#00FF00"
+       d="M 1054.584873,701.520117 A 3.779568,3.779568 0.0 0 0 1055.370675,701.602719 L 1329.518075,701.602719 A 5.669287,5.669287 0.0 0 1 1335.187374,707.272010 L 1335.187374,1063.832636 A 5.669287,5.669287 0.0 0 1 1329.518075,1069.501928 L 720.655877,1069.501928 A 3.779525,3.779525 0.0 0 0 716.876273,1073.281455 L 716.876273,1089.049262 A 3.779516,3.779516 0.0 0 1 715.275575,1092.137590 L 715.275575,1097.952760 A 1.889766,1.889766 0.0 0 0 717.165275,1099.842523 L 1340.976374,1099.842523 A 15.118111,15.118111 0.0 0 0 1356.094473,1084.724409 L 1356.094473,622.677169 A 15.118108,15.118108 0.0 0 0 1340.976374,607.559059 L 52.913374,607.559059 A 15.118108,15.118108 0.0 0 0 37.795276,622.677169 L 37.795276,1084.724409 A 15.118111,15.118111 0.0 0 0 52.913374,1099.842523 L 676.724375,1099.842523 A 1.889769,1.889769 0.0 0 0 678.614173,1097.952760 L 678.614173,1092.146445 A 3.779529,3.779529 0.0 0 1 677.000776,1089.049262 L 677.000776,1073.281455 A 3.779528,3.779528 0.0 0 0 673.221275,1069.501928 L 62.473977,1069.501928 A 5.669294,5.669294 0.0 0 1 56.804674,1063.832636 L 56.804674,707.272010 A 5.669294,5.669294 0.0 0 1 62.473977,701.602719 L 338.506375,701.602719 A 3.779568,3.779568 0.0 0 0 339.292176,701.520117 L 696.152776,625.667078 A 3.779516,3.779516 0.0 0 1 697.724375,625.667078 L 1054.580958,701.538536" />
+  </g>
+  <desc
+     id="desc6162">PlateC.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+</svg>

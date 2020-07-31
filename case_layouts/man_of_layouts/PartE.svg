@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="PlateE.svg"
+   id="svg7857"
+   version="1.1"
+   height="1122.5196850393702"
+   width="793.7007874015749"
+   viewBox="0 0 793.7007874015749 1122.5196850393702">
+  <metadata
+     id="metadata7861">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="g7829"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="703.78107"
+     inkscape:cx="441.03752"
+     inkscape:zoom="0.76613358"
+     showgrid="false"
+     id="namedview7859"
+     inkscape:window-height="1027"
+     inkscape:window-width="2560"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs7809">
+    <marker
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DistanceX">
+      <path
+         id="path7797"
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch">
+      <path
+         id="path7800"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path7802"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path7804"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+  </defs>
+  <g
+     id="g7853"
+     inkscape:label="Holes"
+     inkscape:groupmode="layer">
+    <path
+       id="path7831"
+       style="fill:none;stroke:#FF0000"
+       d="M 62.078776,626.456657 A 5.385851,5.385851 -0.000000 1 0 51.307075,626.456657 5.385851,5.385851 -0.000000 1 0 62.078776,626.456657 z" />
+    <path
+       id="path7833"
+       style="fill:none;stroke:#FF0000"
+       d="M 492.944874,626.456660 A 5.385850,5.385850 -0.000000 1 0 482.173174,626.456660 5.385850,5.385850 -0.000000 1 0 492.944874,626.456660 z" />
+    <path
+       id="path7835"
+       style="fill:none;stroke:#FF0000"
+       d="M 911.727867,626.450970 A 5.397192,5.397192 -0.000000 1 0 900.933483,626.450970 5.397192,5.397192 -0.000000 1 0 911.727867,626.450970 z" />
+    <path
+       id="path7837"
+       style="fill:none;stroke:#FF0000"
+       d="M 1342.582675,626.456657 A 5.385851,5.385851 -0.000000 1 0 1331.810974,626.456657 5.385851,5.385851 -0.000000 1 0 1342.582675,626.456657 z" />
+    <path
+       id="path7839"
+       style="fill:none;stroke:#FF0000"
+       d="M 1342.582674,1080.944879 A 5.385850,5.385850 -0.000000 1 0 1331.810975,1080.944879 5.385850,5.385850 -0.000000 1 0 1342.582674,1080.944879 z" />
+    <path
+       id="path7841"
+       style="fill:none;stroke:#FF0000"
+       d="M 1255.748031,993.826757 A 7.559055,7.559055 -0.000000 1 0 1240.629921,993.826757 7.559055,7.559055 -0.000000 1 0 1255.748031,993.826757 z" />
+    <path
+       id="path7843"
+       style="fill:none;stroke:#FF0000"
+       d="M 911.716475,1080.944878 A 5.395670,5.395670 -0.000000 1 0 900.925134,1080.944878 5.395670,5.395670 -0.000000 1 0 911.716475,1080.944878 z" />
+    <path
+       id="path7845"
+       style="fill:none;stroke:#FF0000"
+       d="M 703.561406,993.826757 A 7.559055,7.559055 -0.000000 1 0 688.443296,993.826757 7.559055,7.559055 -0.000000 1 0 703.561406,993.826757 z" />
+    <path
+       id="path7847"
+       style="fill:none;stroke:#FF0000"
+       d="M 492.944877,1080.944880 A 5.385851,5.385851 -0.000000 1 0 482.173175,1080.944880 5.385851,5.385851 -0.000000 1 0 492.944877,1080.944880 z" />
+    <path
+       id="path7849"
+       style="fill:none;stroke:#FF0000"
+       d="M 151.374780,993.826758 A 7.559055,7.559055 -0.000000 1 0 136.256670,993.826758 7.559055,7.559055 -0.000000 1 0 151.374780,993.826758 z" />
+    <path
+       id="path7851"
+       style="fill:none;stroke:#FF0000"
+       d="M 62.078774,1080.944879 A 5.385849,5.385849 -0.000000 1 0 51.307076,1080.944879 5.385849,5.385849 -0.000000 1 0 62.078774,1080.944879 z" />
+  </g>
+  <g
+     id="g7829"
+     inkscape:label="Part"
+     inkscape:groupmode="layer">
+    <path
+       id="path7813"
+       style="fill:none;stroke:#00FF00"
+       d="M 1356.094473,1084.724409 1356.094473,622.677158" />
+    <path
+       id="path7815"
+       style="fill:none;stroke:#00FF00"
+       d="M 1340.976374,607.559059 52.913374,607.559059" />
+    <path
+       id="path7817"
+       style="fill:none;stroke:#00FF00"
+       d="M 37.795276,622.677158 37.795276,1084.724409" />
+    <path
+       id="path7819"
+       style="fill:none;stroke:#00FF00"
+       d="M 52.913374,1099.842520 1340.976374,1099.842520" />
+    <path
+       id="path7821"
+       style="fill:none;stroke:#00FF00"
+       d="M 1340.976374,1099.842520 A 15.118110,15.118110 -0.000000 0 0 1356.094473,1084.724409" />
+    <path
+       id="path7823"
+       style="fill:none;stroke:#00FF00"
+       d="M 1356.094473,622.677158 A 15.118105,15.118105 -0.000000 0 0 1340.976374,607.559059" />
+    <path
+       id="path7825"
+       style="fill:none;stroke:#00FF00"
+       d="M 37.795276,1084.724409 A 15.118110,15.118110 -0.000000 0 0 52.913374,1099.842520" />
+    <path
+       id="path7827"
+       style="fill:none;stroke:#00FF00"
+       d="M 52.913374,607.559059 A 15.118105,15.118105 -0.000000 0 0 37.795276,622.677158" />
+  </g>
+  <desc
+     id="desc7855">PlateE.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+</svg>
